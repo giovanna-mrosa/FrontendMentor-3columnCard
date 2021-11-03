@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Page](https://your-solution-url.com)
+- Solution URL: [Github Page](https://giovanna-mrosa.github.io/FrontendMentor-3columnCard/)
 
 ### Built with
 
