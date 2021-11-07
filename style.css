@@ -95,6 +95,7 @@ p {
   font-family: var(--font-lexend);
   font-size: 15px;
   color: var(--bright-orange);
+  cursor: pointer;
 }
 
 .button-sedans:hover {
@@ -116,6 +117,7 @@ p {
   font-family: var(--font-lexend);
   font-size: 15px;
   color: var(--dark-cyan);
+  cursor: pointer;
 }
 
 .button-suvs:hover {
@@ -137,6 +139,7 @@ p {
   font-family: var(--font-lexend);
   font-size: 15px;
   color: var(--very-dark-cyan);
+  cursor: pointer;
 }
 
 .button-luxury:hover {
