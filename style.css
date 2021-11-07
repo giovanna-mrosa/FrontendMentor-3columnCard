@@ -38,21 +38,18 @@ body {
 
 .container-sedan {
   background: var(--bright-orange);
-  cursor: pointer;
   width: 307px;
   height: 500px;
   border-radius: 8px 0px 0px 8px;
 }
 .container-suvs {
   background: var(--dark-cyan);
-  cursor: pointer;
   width: 307px;
   height: 500px;
 }
 
 .container-luxury {
   background: var(--very-dark-cyan);
-  cursor: pointer;
   width: 307px;
   height: 500px;
   border-radius: 0px 8px 8px 0px;
